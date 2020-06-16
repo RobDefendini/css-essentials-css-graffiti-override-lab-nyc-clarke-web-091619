@@ -3,5 +3,5 @@
 }
 
 #wall .slick {
-  display: block;
+  display: list-item;
 }
