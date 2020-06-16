@@ -1,6 +1,3 @@
-#wall .tag-1 {
-  display: bloc;
-}
-.parent {
-  display: poop;
+#wall {
+  display: none;
 }
