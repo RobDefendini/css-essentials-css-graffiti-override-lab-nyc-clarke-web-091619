@@ -3,6 +3,6 @@
 }
 
 
-#wall .parent > #tag-5 {
+#wall .parent {
   display: none;
 }
