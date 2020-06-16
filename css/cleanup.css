@@ -4,9 +4,7 @@
 #wall #tag-2 {
   display: none;
 }
-.parent {
-  display: none;
-}
+
 .parent > #tag-5 {
   display: none;
 }
