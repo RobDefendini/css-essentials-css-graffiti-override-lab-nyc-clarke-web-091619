@@ -1,5 +1,5 @@
 #wall {
-  display: none;
+  display: list-item;
 }
 .parent {
   display: list-item;
