@@ -1,8 +1,6 @@
 #wall {
   display: none;
 }
-
-
-#wall .parent {
+.parent {
   display: list-item;
 }
