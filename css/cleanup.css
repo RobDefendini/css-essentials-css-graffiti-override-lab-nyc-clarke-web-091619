@@ -1,5 +1,5 @@
 #wall .tag-1 {
-  display: list-item;
+  display: inline-block;
 }
 .parent {
   display: poop;
