@@ -4,5 +4,5 @@
 
 
 #wall .parent {
-  display: table-cell;
+  display: list-item;
 }
