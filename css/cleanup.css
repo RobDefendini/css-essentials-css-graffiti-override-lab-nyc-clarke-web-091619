@@ -7,3 +7,6 @@ tag-2 {
 #parent {
   display: none;
 }
+#slick {
+  display: block;  
+}
