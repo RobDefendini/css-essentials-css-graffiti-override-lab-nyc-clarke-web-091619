@@ -4,5 +4,5 @@
 
 
 #wall .parent {
-  display: none;
+  display: table-cell;
 }
